@@ -21,7 +21,7 @@
     <!-- 添加相关依赖 -->
 
 
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
 
     <servlet.version>4.0.0</servlet.version>
 
